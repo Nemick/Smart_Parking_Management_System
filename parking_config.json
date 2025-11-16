@@ -1,0 +1,298 @@
+{
+    "spots": {
+        "1": {
+            "row": 1,
+            "position": 1,
+            "side": "north",
+            "type": "handicap",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "2": {
+            "row": 1,
+            "position": 2,
+            "side": "north",
+            "type": "handicap",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "3": {
+            "row": 1,
+            "position": 3,
+            "side": "north",
+            "type": "standard",
+            "occupied": true,
+            "vehicle_info": {
+                "license_plate": "KMM123X",
+                "entry_time": "2025-11-16T19:13:26.367810",
+                "preferred_type": "standard",
+                "handicap_permit": false,
+                "notes": ""
+            },
+            "entry_time": "2025-11-16T19:13:26.367908"
+        },
+        "4": {
+            "row": 1,
+            "position": 4,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "5": {
+            "row": 1,
+            "position": 5,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "6": {
+            "row": 1,
+            "position": 6,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "7": {
+            "row": 1,
+            "position": 7,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "8": {
+            "row": 1,
+            "position": 8,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "9": {
+            "row": 2,
+            "position": 1,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "10": {
+            "row": 2,
+            "position": 2,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "11": {
+            "row": 2,
+            "position": 3,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "12": {
+            "row": 2,
+            "position": 4,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "13": {
+            "row": 2,
+            "position": 5,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "14": {
+            "row": 2,
+            "position": 6,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "15": {
+            "row": 2,
+            "position": 7,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "16": {
+            "row": 2,
+            "position": 8,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "17": {
+            "row": 3,
+            "position": 1,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "18": {
+            "row": 3,
+            "position": 2,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "19": {
+            "row": 3,
+            "position": 3,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "20": {
+            "row": 3,
+            "position": 4,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "21": {
+            "row": 3,
+            "position": 5,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "22": {
+            "row": 3,
+            "position": 6,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "23": {
+            "row": 3,
+            "position": 7,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "24": {
+            "row": 3,
+            "position": 8,
+            "side": "north",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "25": {
+            "row": 4,
+            "position": 1,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "26": {
+            "row": 4,
+            "position": 2,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "27": {
+            "row": 4,
+            "position": 3,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "28": {
+            "row": 4,
+            "position": 4,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "29": {
+            "row": 4,
+            "position": 5,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "30": {
+            "row": 4,
+            "position": 6,
+            "side": "south",
+            "type": "standard",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "31": {
+            "row": 4,
+            "position": 7,
+            "side": "south",
+            "type": "premium",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        },
+        "32": {
+            "row": 4,
+            "position": 8,
+            "side": "south",
+            "type": "premium",
+            "occupied": false,
+            "vehicle_info": null,
+            "entry_time": null
+        }
+    }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "spot_id": 3,
+        "spot_type": "standard",
+        "vehicle_info": {
+            "license_plate": "KMM123X",
+            "entry_time": "2025-11-16T19:13:26.367810",
+            "preferred_type": "standard",
+            "handicap_permit": false,
+            "notes": ""
+        },
+        "entry_time": "2025-11-16T19:13:26.367908",
+        "exit_time": null
+    }
+]
