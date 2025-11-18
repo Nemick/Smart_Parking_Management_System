@@ -1,6 +1,17 @@
 # 🅿️ Smart Parking System
 
-A comprehensive smart parking management system with AI-powered license plate detection, interactive parking lot visualization, and complete vehicle tracking.
+An AI-powered parking automation prototype integrating YOLOv8, OCR, and an intuitive Streamlit dashboard to manage vehicle detection, slot allocation, and parking analytics.
+
+## 🔗 Live Demo
+https://smartparkingmanagementsystem.streamlit.app/
+
+### 🎯 Key Features
+- **Accurate vehicle detection using YOLOv8
+- **OCR-based license plate extraction
+- **Automated slot assignment & release
+- **Real-time occupancy tracking
+- **Historical logs for analysis
+- **Fully deployable Streamlit interface
 
 ## Features
 
